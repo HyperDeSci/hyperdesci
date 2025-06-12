@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HyperDeSci Covenant Recognition System</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f8fafc;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .hero {
+      background: linear-gradient(90deg, #e0f7fa 0%, #fffde7 100%);
+      padding: 2rem 1rem 1.5rem 1rem;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      color: #555;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .tiers {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+      margin: 2rem 0 1rem 0;
+    }
+    .tier {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      padding: 1.5rem 1.2rem;
+      width: 320px;
+      min-width: 260px;
+      text-align: center;
+      border-top: 6px solid #ffd600;
+      transition: transform 0.2s;
+    }
+    .tier:hover {
+      transform: translateY(-6px) scale(1.03);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.10);
+    }
+    .tier.gold { border-top-color: #ffd600; }
+    .tier.silver { border-top-color: #bdbdbd; }
+    .tier.bronze { border-top-color: #ffb300; }
+    .tier h2 {
+      margin-top: 0;
+      font-size: 1.5rem;
+    }
+    .tier .emoji {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+    ul {
+      text-align: left;
+      margin: 1rem 0 0 0;
+      padding-left: 1.2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      padding: 2rem 1.5rem;
+    }
+    section h3 {
+      margin-top: 0;
+      color: #1976d2;
+    }
+    .mechanisms, .assessment {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem;
+      justify-content: space-between;
+    }
+    .mechanism, .assessment-step {
+      flex: 1 1 220px;
+      background: #f8fafc;
+      border-radius: 0.7rem;
+      padding: 1rem 1rem 1rem 1.2rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    }
+    .mechanism .emoji, .assessment-step .emoji {
+      font-size: 1.5rem;
+      margin-right: 0.5rem;
+      vertical-align: middle;
+    }
+    @media (max-width: 900px) {
+      .tiers, .mechanisms, .assessment { flex-direction: column; align-items: center; }
+      .tier, .mechanism, .assessment-step { width: 100%; min-width: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>🏆 HyperDeSci Covenant Recognition System</h1>
+    <p>Celebrating projects that exemplify our Community Covenant values. Recognition is earned through positive impact, collaboration, and giving back to the ecosystem.</p>
+  </div>
+
+  <div class="tiers">
+    <div class="tier gold">
+      <span class="emoji">🥇</span>
+      <h2>MEGAPI Champion</h2>
+      <ul>
+        <li>Exceptional commitment to the ecosystem</li>
+        <li>Substantial contributions back to the treasury</li>
+        <li>Outstanding knowledge sharing &amp; community building</li>
+        <li>Multiple collaborations with other projects</li>
+      </ul>
+    </div>
+    <div class="tier silver">
+      <span class="emoji">🥈</span>
+      <h2>MEGAPI Advocate</h2>
+      <ul>
+        <li>Strong commitment to ecosystem principles</li>
+        <li>Contributions aligned with guidance</li>
+        <li>Active knowledge sharing &amp; mentorship</li>
+        <li>Regular participation in governance</li>
+      </ul>
+    </div>
+    <div class="tier bronze">
+      <span class="emoji">🥉</span>
+      <h2>MEGAPI Builder</h2>
+      <ul>
+        <li>Basic commitment to the ecosystem</li>
+        <li>Holding MEGAPI tokens as suggested</li>
+        <li>Regular reporting and updates</li>
+        <li>Participation in community events</li>
+      </ul>
+    </div>
+  </div>
+
+  <section>
+    <h3>🎯 Recognition Mechanisms</h3>
+    <div class="mechanisms">
+      <div class="mechanism"><span class="emoji">📊</span><strong>Public Dashboard</strong><br>On-chain and web dashboard showcasing all funded projects, recognition tiers, and key metrics.</div>
+      <div class="mechanism"><span class="emoji">🏅</span><strong>Token Badges (NFTs)</strong><br>Non-transferable badges awarded to project wallets, visible in all ecosystem apps.</div>
+      <div class="mechanism"><span class="emoji">🌟</span><strong>Community Spotlights</strong><br>Featured interviews, newsletter sections, and social media promotion for recognized projects.</div>
+      <div class="mechanism"><span class="emoji">🚀</span><strong>Preferential Treatment</strong><br>Priority for funding, reduced proposal requirements, and early access to new features.</div>
+    </div>
+  </section>
+
+  <section>
+    <h3>📊 Assessment Process</h3>
+    <div class="assessment">
+      <div class="assessment-step"><span class="emoji">📝</span><strong>Self-Reporting</strong><br>Projects submit periodic updates and evidence of covenant commitment.</div>
+      <div class="assessment-step"><span class="emoji">🤝</span><strong>Community Review</strong><br>Community feedback and peer review of project contributions and engagement.</div>
+      <div class="assessment-step"><span class="emoji">🗳️</span><strong>Governance Confirmation</strong><br>Recognition tier changes are confirmed by community vote, with an appeals process.</div>
+    </div>
+    <p style="text-align:center; color:#888; margin-top:1.5rem;">Formal assessment every 6 months. Exceptional contributions can be recognized sooner.</p>
+  </section>
+
+  <footer style="text-align:center; color:#aaa; margin:2rem 0 1rem 0; font-size:1rem;">
+    &copy; HyperDeSci. Recognition System v0.1
+  </footer>
+</body>
+</html> 
