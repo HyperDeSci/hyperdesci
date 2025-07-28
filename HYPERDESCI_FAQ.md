@@ -69,7 +69,7 @@ A: Three key differences:
 4. **Experimental Approach**: We're testing different funding mechanisms to find what works best
 
 **Q: What is the $MEGAPI token?**
-A: $MEGAPI is the ecosystem token that powers HyperDeSci. It gives holders governance rights to vote on funding decisions and experimental parameters. The tokenomics include 10% distributed to the community and 90% in the treasury to fund scientific projects.
+A: $MEGAPI is the ecosystem token that powers HyperDeSci. It gives holders governance rights to vote on funding decisions and experimental parameters. The tokenomics include 1% distributed to the community and 99% in the treasury to fund scientific projects.
 
 **Q: Is this just another crypto project?**
 A: No. While we use blockchain technology and tokens as tools, our primary focus is advancing scientific research and creating public goods. We measure success by scientific impact, not token price.
