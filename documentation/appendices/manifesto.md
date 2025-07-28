@@ -1,5 +1,13 @@
 # MANIFESTO 🧪🚀
 
+**UPD: July 2025** 
+Since launch we received lot's of feedback about the system and in the [vote on Gardens](https://app.gardens.fund/gardens/8453/0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa/0x96aa42ac2a15b897a12d736a28fbbc831f389d96/151/0x8fe008e79f1f66453865e611224d66ad4cb536aa-1) made a decision to experiment with two token system - one for voting for projects xMEGAPI, and another one to distribute value - $FURMION memecoin.
+
+Once the proposal passes LunCo team would handle operations to run Furmion.
+
+The documents will be updated later to reflect the new two-token system, if you have questions - join our [Telegram](https://t.me/hyperdesci_chat)
+**CONTINUE**
+
 ## SCIENCE TO THE MOON! 🌙
 
 [**$MEGAPI**](../tokenomics/megapi/) is the rocket fuel powering the next scientific revolution! We're sovereign individuals who know that when science wins, we ALL win!

@@ -4,6 +4,14 @@
 
 ---
 
+**UPD: July 2025** 
+Since launch we received lot's of feedback about the system and in the [vote on Gardens](https://app.gardens.fund/gardens/8453/0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa/0x96aa42ac2a15b897a12d736a28fbbc831f389d96/151/0x8fe008e79f1f66453865e611224d66ad4cb536aa-1) made a decision to experiment with two token system - one for voting for projects xMEGAPI, and another one to distribute value - $FURMION memecoin.
+
+Once the proposal passes LunCo team would handle operations to run Furmion.
+
+The documents will be updated later to reflect the new two-token system, if you have questions - join our [Telegram](https://t.me/hyperdesci_chat)
+**CONTINUE**
+
 ## THE VISION
 
 **HyperDeSci** is creating a self-sustaining ecosystem for funding scientific research. Unlike traditional grants that provide one-time funding, our **Continuous Convertible Grants Framework (CCGF)** creates an ongoing funding stream while encouraging successful initiatives to give back to the ecosystem.
@@ -44,9 +52,6 @@ We're building a revolutionary funding system that is:
 
 ### Supporters
 1. Join our community on [Telegram](https://t.me/hyperdesci)
-2. Contribute ETH via Juicebox on BASE network (coming soon)
-3. Receive $MEGAPI tokens
-4. Direct funding through governance
 
 ### Projects
 1. Review our [Community Covenant](HyperDeSci_Community_Covenant.md)
@@ -56,14 +61,14 @@ We're building a revolutionary funding system that is:
 
 ## FIRST EXPERIMENTS
 
-- **StreamingQF**: Continuous quadratic funding for community-backed projects
+- **StreamingQF**: Continuous quadratic funding for community-backed projects via $FURMION Memecoin
 - **DeSci Builder Support**: Direct funding for science builders
 - **Ecosystem Development**: Resources for growth and sustainability
 
 ## TOKEN MECHANICS
 
 - **$MEGAPI**: Our ecosystem token on BASE network
-- **Initial Distribution**: 10% community, 90% treasury
+- **Initial Distribution**: 1% community, 99% treasury
 - **Use Cases**: Governance, funding participation
 - **Value Accrual**: Treasury growth through convertible returns
 
