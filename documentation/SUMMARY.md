@@ -10,16 +10,17 @@
 ## TOKENOMICS
 
 * [MEGAPI](tokenomics/megapi/README.md)
+  * [Pre-token](tokenomics/megapi/pre-token.md)
   * [Launch](tokenomics/megapi/launch.md)
 
 ## Governance
 
-* [Governance Participation](governance/governance-participation/README.md)
+* [Participation](governance/governance-participation/README.md)
   * [Gardens](governance/governance-participation/gardens.md)
 * [Governance Framework](governance/governance-framework.md)
 * [Project Nomination](governance/project-nomination.md)
 * [Project Evaluation Criteria](governance/project-evaluation-criteria.md)
-* [Funding Experiments' Selection](governance/funding-experiments-selection/README.md)
+* [Funding Experiment Selection](governance/funding-experiments-selection/README.md)
   * [First Experiments](governance/funding-experiments-selection/first-experiments.md)
 
 ## Appendices
