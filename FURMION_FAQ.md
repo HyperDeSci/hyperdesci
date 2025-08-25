@@ -56,7 +56,7 @@ HyperDeSci aims to revolutionize science funding by creating a transparent, effi
 
 We take it one at a time. Currently, we have already supported around 42 projects.
 
-It's not rocket science first,  projects just need to go to our website (hyperdesci.xyz)[https://hyperdesci.xyz] and click on the apply button, fill a simple application and after that our team will reach those projects that applied.
+It's not rocket science first,  projects just need to go to our website [hyperdesci.xyz](https://hyperdesci.xyz) and click on the apply button, fill a simple application and after that our team will reach those projects that applied.
 
 Researchers must first engage their communities to raise $FURMION donations or votes, streamed to demonstrate support. They then apply through LunCo, which evaluates projects for DeSci alignment, innovation, feasibility, and covenant commitment. Approved projects enter the SQF pool for continuous funding based on community support. Support includes access to a transparent funding stream, community backing, and the potential for sustained financial support, freeing researchers from traditional grant-writing burdens.
 
